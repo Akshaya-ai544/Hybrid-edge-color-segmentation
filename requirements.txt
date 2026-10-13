@@ -1,3 +1,9 @@
-flask
+streamlit
 opencv-python-headless
 numpy
+pandas
+matplotlib
+plotly
+Pillow
+scikit-image
+scikit-learn
